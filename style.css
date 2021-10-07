@@ -46,6 +46,7 @@ li{
   justify-content: space-between;
   align-items: center;
   min-height: 84px;
+  margin-bottom: 40px;
 }
 .header__inner-menu{
   max-width: 775px;
